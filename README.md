@@ -1,7 +1,7 @@
-# 2 W Laser
-Kontroler pro 2 W laserovou diodu M140. PCB nabízi zakladní možnosti ovladaní (on/off, nastavení proudu tekoucího do laserové diody). Trimr R4 slouži pro nastaveni maximalniho produ a R3 pro regulovani proudu tekociho do diody. Tranzistor Q1 a laserova dioda musi mit hladič!!
+# 2 W Laser controler
+Controller for 2 W laser diode M140. The PCB offers basic control options (on / off, setting the current flowing into the laser diode). Trimmer R4 is used to set the maximum output and R3 to regulate the current flowing into the diode. Transistor Q1 and laser diode must have a smoother !!
 
-## Schéma zapojení:
+## Connection diagram:
 <div class="d-flex justify-content-center">
   <img src="./doc/circ.PNG" width="80%">
 </div>
