@@ -1,5 +1,5 @@
 # 2 W Laser controler
-Controller for 2 W laser diode M140. The PCB offers basic control options (on / off, setting the current flowing into the laser diode). Trimmer R4 is used to set the maximum output and R3 to regulate the current flowing into the diode. Transistor Q1 and laser diode must have a smoother !!
+Controller for 2 W laser diode M140. The PCB offers basic control options (on / off and setting the current flowing into the laser diode). Trimmer R4 is used to set the maximum output current and R3 to regulate the current flowing into the diode. Transistor Q1 and laser diode must be heatsinked !!
 
 ## Connection diagram:
 <div class="d-flex justify-content-center">
