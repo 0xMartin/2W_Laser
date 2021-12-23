@@ -38,10 +38,9 @@ Controller for 2 W laser diode M140. The PCB offers basic control options (on / 
 
 ## PCB:
 > Size: 86mm x 27mm
-<div class="d-flex justify-content-center">
-  <img src="./doc/top.png" width="40%">
-  <img src="./doc/bottom.png" width="40%">
-</div>
+
+<img src="./doc/top.png" width="80%">
+<img src="./doc/bottom.png" width="80%">
 
 ## Final:
 work in progress ...
