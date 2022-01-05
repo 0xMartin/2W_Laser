@@ -1,5 +1,5 @@
 # 2 W Laser controler
-![40%](https://progress-bar.dev/40) <i>pcb in production</i>
+![60%](https://progress-bar.dev/60) <i>pcb in production (final)</i>
 
 <p>
 Controller for 2 W laser diode M140. The PCB offers basic control options (on / off and setting the current flowing into the laser diode). Trimmer R4 is used to set the maximum output current and R3 to regulate the current flowing into the diode. Transistor Q1 and laser diode must be heatsinked !!
