@@ -43,7 +43,7 @@ Controller for 2 W laser diode M140. The PCB offers basic control options (on / 
 <img src="./doc/bottom.png" width="80%">
 
 ## Final:
-<img src="./doc/IMG_20220105_120930.jpg" width="100%">
+<img src="./doc/final.jpg" width="100%">
 
 ## Graphs:
 work in progress ...
